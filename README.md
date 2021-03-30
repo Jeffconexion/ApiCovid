@@ -23,5 +23,5 @@ Desta maneira, é possível obter dados de infectados e curados por cidades. Acr
 </p> 
 
 <p align="center">
-  <img src="https://github.com/Jeffconexion/SysAluno/blob/main/sysProject.gif" />
+  <img src="https://github.com/Jeffconexion/ApiCovid/blob/main/2postLinkdin.jpg" />
 </p>
